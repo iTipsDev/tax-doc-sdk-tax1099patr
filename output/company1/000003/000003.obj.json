@@ -1,0 +1,68 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "56-049-5954",
+  "taxFormId" : "1358478",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0706276",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hills and Sons"
+    },
+    "address" : {
+      "line1" : "585 McCullough Passage",
+      "city" : "East Candifort",
+      "region" : "PA",
+      "postalCode" : "20201"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "maricela.kunde@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-01-2384",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Emilio",
+      "last" : "Carter"
+    },
+    "address" : {
+      "line1" : "98688 Jacobs Turnpike",
+      "city" : "Lake Laureenfort",
+      "region" : "IL",
+      "postalCode" : "81763"
+    },
+    "email" : "leigh.rodriguez@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "039-01732-1",
+  "patronageDividends" : 200,
+  "nonpatronageDistributions" : 300,
+  "perUnitRetainAllocations" : 400,
+  "federalTaxWithheld" : 500,
+  "redemption" : 600,
+  "section199Deduction" : 700,
+  "qualifiedPayments" : 800,
+  "section199QualifiedItems" : 900,
+  "section199SstbItems" : 1000,
+  "investmentCredit" : 1100,
+  "workOpportunityCredit" : 1200,
+  "otherCreditsAndDeductions" : 1300,
+  "specifiedCoop" : true,
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1400,
+      "taxId" : "35-236804",
+      "income" : 1500
+    },
+    "local" : {
+      "taxWithheld" : 1600,
+      "localityName" : "North Shirley",
+      "income" : 1700
+    }
+  },
+  "secondTinNotice" : true
+}

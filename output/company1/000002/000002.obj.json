@@ -1,0 +1,68 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "96-455-4946",
+  "taxFormId" : "2059159",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0706276",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hills and Sons"
+    },
+    "address" : {
+      "line1" : "585 McCullough Passage",
+      "city" : "East Candifort",
+      "region" : "PA",
+      "postalCode" : "20201"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "maricela.kunde@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-77-7180",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Lorena",
+      "last" : "Schiller"
+    },
+    "address" : {
+      "line1" : "59453 Grant Cove",
+      "city" : "East Jared",
+      "region" : "MA",
+      "postalCode" : "76035"
+    },
+    "email" : "rob.cronin@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "852-25075-0",
+  "patronageDividends" : 200,
+  "nonpatronageDistributions" : 300,
+  "perUnitRetainAllocations" : 400,
+  "federalTaxWithheld" : 500,
+  "redemption" : 600,
+  "section199Deduction" : 700,
+  "qualifiedPayments" : 800,
+  "section199QualifiedItems" : 900,
+  "section199SstbItems" : 1000,
+  "investmentCredit" : 1100,
+  "workOpportunityCredit" : 1200,
+  "otherCreditsAndDeductions" : 1300,
+  "specifiedCoop" : true,
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 1400,
+      "taxId" : "48-319617",
+      "income" : 1500
+    },
+    "local" : {
+      "taxWithheld" : 1600,
+      "localityName" : "Durganport",
+      "income" : 1700
+    }
+  },
+  "secondTinNotice" : true
+}
