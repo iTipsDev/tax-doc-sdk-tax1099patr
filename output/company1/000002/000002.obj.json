@@ -1,0 +1,82 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "06-951-7785",
+  "taxFormId" : "7887618",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0269304",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Welch and Sons"
+    },
+    "address" : {
+      "line1" : "14010 Simonis Parkways",
+      "city" : "Beatrisfurt",
+      "region" : "AL",
+      "postalCode" : "93021",
+      "unitType" : "Apt",
+      "unitNumber" : "239"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "hershel.lang@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-52-3626",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Marion",
+      "middle" : "Charlyn",
+      "last" : "Shields"
+    },
+    "businessName" : {
+      "name1" : "Altenwerth, Turcotte and Johns"
+    },
+    "address" : {
+      "line1" : "378 Alexander Union",
+      "city" : "Santoschester",
+      "region" : "FL",
+      "postalCode" : "50837",
+      "unitType" : "Apt",
+      "unitNumber" : "322"
+    },
+    "email" : "elmer.pfannerstill@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "667-62648-8",
+  "patronageDividends" : 200,
+  "nonpatronageDistributions" : 300,
+  "perUnitRetainAllocations" : 400,
+  "federalTaxWithheld" : 500,
+  "redemption" : 600,
+  "section199Deduction" : 700,
+  "qualifiedPayments" : 800,
+  "section199QualifiedItems" : 900,
+  "section199SstbItems" : 1000,
+  "investmentCredit" : 1100,
+  "workOpportunityCredit" : 1200,
+  "otherCreditsAndDeductions" : 1300,
+  "form8844Credit" : 1400,
+  "form8864Credit" : 1500,
+  "form8896Credit" : 1600,
+  "form8932Credit" : 1700,
+  "sulfurDeduction" : 1800,
+  "form8941Credit" : 1900,
+  "specifiedCoop" : true,
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 2000,
+      "taxId" : "13-593474",
+      "income" : 2100
+    },
+    "local" : {
+      "taxWithheld" : 2200,
+      "localityName" : "Leeborough",
+      "income" : 2300
+    }
+  },
+  "secondTinNotice" : true
+}

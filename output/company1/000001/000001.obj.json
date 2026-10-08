@@ -1,0 +1,82 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "56-131-6706",
+  "taxFormId" : "1585236",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0269304",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Welch and Sons"
+    },
+    "address" : {
+      "line1" : "14010 Simonis Parkways",
+      "city" : "Beatrisfurt",
+      "region" : "AL",
+      "postalCode" : "93021",
+      "unitType" : "Apt",
+      "unitNumber" : "239"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "hershel.lang@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-16-2330",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Percy",
+      "middle" : "Kanisha",
+      "last" : "Huels"
+    },
+    "businessName" : {
+      "name1" : "O'Reilly, Tillman and Hintz"
+    },
+    "address" : {
+      "line1" : "2475 Antonietta Knolls",
+      "city" : "New Abrammouth",
+      "region" : "AZ",
+      "postalCode" : "34108",
+      "unitType" : "Apt",
+      "unitNumber" : "264"
+    },
+    "email" : "peter.bechtelar@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "232-06007-3",
+  "patronageDividends" : 200,
+  "nonpatronageDistributions" : 300,
+  "perUnitRetainAllocations" : 400,
+  "federalTaxWithheld" : 500,
+  "redemption" : 600,
+  "section199Deduction" : 700,
+  "qualifiedPayments" : 800,
+  "section199QualifiedItems" : 900,
+  "section199SstbItems" : 1000,
+  "investmentCredit" : 1100,
+  "workOpportunityCredit" : 1200,
+  "otherCreditsAndDeductions" : 1300,
+  "form8844Credit" : 1400,
+  "form8864Credit" : 1500,
+  "form8896Credit" : 1600,
+  "form8932Credit" : 1700,
+  "sulfurDeduction" : 1800,
+  "form8941Credit" : 1900,
+  "specifiedCoop" : true,
+  "stateAndLocal" : {
+    "stateCode" : "AA",
+    "state" : {
+      "taxWithheld" : 2000,
+      "taxId" : "88-256598",
+      "income" : 2100
+    },
+    "local" : {
+      "taxWithheld" : 2200,
+      "localityName" : "New Ted",
+      "income" : 2300
+    }
+  },
+  "secondTinNotice" : true
+}
